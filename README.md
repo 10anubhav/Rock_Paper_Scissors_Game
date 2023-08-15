@@ -19,6 +19,9 @@ This implementation adds a graphical user interface (GUI) using the tkinter libr
 - Reset button to start a new match.
 
 ## Screenshots
+![Screenshot 2023-08-15 160837](https://github.com/10anubhav/Rock_Paper_Scissors_Game/assets/126901825/b03b4e8d-bb29-4c6b-9222-017e2752b213)
+![Screenshot 2023-08-15 160909](https://github.com/10anubhav/Rock_Paper_Scissors_Game/assets/126901825/e81ef78a-4958-49b2-bd15-df7601bbbca5)
+![Screenshot 2023-08-15 160943](https://github.com/10anubhav/Rock_Paper_Scissors_Game/assets/126901825/704d7557-a3f6-4891-9b04-b128a7361908)
 
 
 ## Usage
